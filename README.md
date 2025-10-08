@@ -18,3 +18,9 @@ This project implements the **Canny Edge Detection algorithm from scratch**  and
 
 pip install -r requirements.txt
 streamlit run detectorApp.py
+```
+
+
+## Demo
+![screenshot](screenshots/screenshotFull.png)
+
